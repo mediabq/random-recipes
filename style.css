@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mt-2 {
+  margin-top: 2em;
+}
+
+#breakfast img,
+#lunch img,
+#dinner img {
+  max-width: 80%;
+  border-radius: 50%;
+  margin: 1.2em;
+}
